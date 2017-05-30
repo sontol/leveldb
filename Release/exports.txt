@@ -1,0 +1,176 @@
+Microsoft (R) COFF/PE Dumper Version 14.00.24210.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file leveldb.lib
+
+File Type: LIBRARY
+
+Archive member name at 8: /               
+5924CBEA time/date Wed May 24 06:55:22 2017
+         uid
+         gid
+       0 mode
+     A64 size
+correct header end
+
+    53 public symbols
+
+     1556 __IMPORT_DESCRIPTOR_leveldb
+     1780 __NULL_IMPORT_DESCRIPTOR
+     18B6 leveldb_NULL_THUNK_DATA
+     2118 __imp_??_7DB@leveldb@@6B@
+     20A0 __imp_??_7Comparator@leveldb@@6B@
+     1B0E ??0DB@leveldb@@QEAA@XZ
+     1B0E __imp_??0DB@leveldb@@QEAA@XZ
+     24D8 ?compare@Slice@leveldb@@QEBAHAEBV12@@Z
+     24D8 __imp_?compare@Slice@leveldb@@QEBAHAEBV12@@Z
+     1F1E ??4Slice@leveldb@@QEAAAEAV01@$$QEAV01@@Z
+     1F1E __imp_??4Slice@leveldb@@QEAAAEAV01@$$QEAV01@@Z
+     1FA4 ??4Slice@leveldb@@QEAAAEAV01@AEBV01@@Z
+     1FA4 __imp_??4Slice@leveldb@@QEAAAEAV01@AEBV01@@Z
+     2752 ?starts_with@Slice@leveldb@@QEBA_NAEBV12@@Z
+     2752 __imp_?starts_with@Slice@leveldb@@QEBA_NAEBV12@@Z
+     23A2 ?ToString@Slice@leveldb@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+     23A2 __imp_?ToString@Slice@leveldb@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+     2654 ?remove_prefix@Slice@leveldb@@QEAAX_K@Z
+     2654 __imp_?remove_prefix@Slice@leveldb@@QEAAX_K@Z
+     245E ?clear@Slice@leveldb@@QEAAXXZ
+     245E __imp_?clear@Slice@leveldb@@QEAAXXZ
+     2028 ??ASlice@leveldb@@QEBAD_K@Z
+     2028 __imp_??ASlice@leveldb@@QEBAD_K@Z
+     25D8 ?empty@Slice@leveldb@@QEBA_NXZ
+     25D8 __imp_?empty@Slice@leveldb@@QEBA_NXZ
+     26D8 ?size@Slice@leveldb@@QEBA_KXZ
+     26D8 __imp_?size@Slice@leveldb@@QEBA_KXZ
+     255C ?data@Slice@leveldb@@QEBAPEBDXZ
+     255C __imp_?data@Slice@leveldb@@QEBAPEBDXZ
+     1C3A ??0Slice@leveldb@@QEAA@PEBD@Z
+     1C3A __imp_??0Slice@leveldb@@QEAA@PEBD@Z
+     1B82 ??0Slice@leveldb@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+     1B82 __imp_??0Slice@leveldb@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+     1CB4 ??0Slice@leveldb@@QEAA@PEBD_K@Z
+     1CB4 __imp_??0Slice@leveldb@@QEAA@PEBD_K@Z
+     1D30 ??0Slice@leveldb@@QEAA@XZ
+     1D30 __imp_??0Slice@leveldb@@QEAA@XZ
+     1E96 ??4Comparator@leveldb@@QEAAAEAV01@AEBV01@@Z
+     1E96 __imp_??4Comparator@leveldb@@QEAAAEAV01@AEBV01@@Z
+     1A10 ??0Comparator@leveldb@@QEAA@AEBV01@@Z
+     1A10 __imp_??0Comparator@leveldb@@QEAA@AEBV01@@Z
+     1A92 ??0Comparator@leveldb@@QEAA@XZ
+     1A92 __imp_??0Comparator@leveldb@@QEAA@XZ
+     222A ?Open@DB@leveldb@@SA?AVStatus@2@AEBUOptions@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAPEAV12@@Z
+     222A __imp_?Open@DB@leveldb@@SA?AVStatus@2@AEBUOptions@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAPEAV12@@Z
+     1E22 ??1DB@leveldb@@UEAA@XZ
+     1E22 __imp_??1DB@leveldb@@UEAA@XZ
+     2188 ?Delete@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@@Z
+     2188 __imp_?Delete@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@@Z
+     2302 ?Put@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@1@Z
+     2302 __imp_?Put@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@1@Z
+     1DA6 ??1Comparator@leveldb@@UEAA@XZ
+     1DA6 __imp_??1Comparator@leveldb@@UEAA@XZ
+
+Archive member name at AA8: /               
+5924CBEA time/date Wed May 24 06:55:22 2017
+         uid
+         gid
+       0 mode
+     A72 size
+correct header end
+
+    29 offsets
+
+        1     1556
+        2     1780
+        3     18B6
+        4     2118
+        5     20A0
+        6     1B0E
+        7     24D8
+        8     1F1E
+        9     1FA4
+        A     2752
+        B     23A2
+        C     2654
+        D     245E
+        E     2028
+        F     25D8
+       10     26D8
+       11     255C
+       12     1C3A
+       13     1B82
+       14     1CB4
+       15     1D30
+       16     1E96
+       17     1A10
+       18     1A92
+       19     222A
+       1A     1E22
+       1B     2188
+       1C     2302
+       1D     1DA6
+
+    53 public symbols
+
+       17 ??0Comparator@leveldb@@QEAA@AEBV01@@Z
+       18 ??0Comparator@leveldb@@QEAA@XZ
+        6 ??0DB@leveldb@@QEAA@XZ
+       13 ??0Slice@leveldb@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+       12 ??0Slice@leveldb@@QEAA@PEBD@Z
+       14 ??0Slice@leveldb@@QEAA@PEBD_K@Z
+       15 ??0Slice@leveldb@@QEAA@XZ
+       1D ??1Comparator@leveldb@@UEAA@XZ
+       1A ??1DB@leveldb@@UEAA@XZ
+       16 ??4Comparator@leveldb@@QEAAAEAV01@AEBV01@@Z
+        8 ??4Slice@leveldb@@QEAAAEAV01@$$QEAV01@@Z
+        9 ??4Slice@leveldb@@QEAAAEAV01@AEBV01@@Z
+        E ??ASlice@leveldb@@QEBAD_K@Z
+       1B ?Delete@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@@Z
+       19 ?Open@DB@leveldb@@SA?AVStatus@2@AEBUOptions@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAPEAV12@@Z
+       1C ?Put@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@1@Z
+        B ?ToString@Slice@leveldb@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+        D ?clear@Slice@leveldb@@QEAAXXZ
+        7 ?compare@Slice@leveldb@@QEBAHAEBV12@@Z
+       11 ?data@Slice@leveldb@@QEBAPEBDXZ
+        F ?empty@Slice@leveldb@@QEBA_NXZ
+        C ?remove_prefix@Slice@leveldb@@QEAAX_K@Z
+       10 ?size@Slice@leveldb@@QEBA_KXZ
+        A ?starts_with@Slice@leveldb@@QEBA_NAEBV12@@Z
+        1 __IMPORT_DESCRIPTOR_leveldb
+        2 __NULL_IMPORT_DESCRIPTOR
+       17 __imp_??0Comparator@leveldb@@QEAA@AEBV01@@Z
+       18 __imp_??0Comparator@leveldb@@QEAA@XZ
+        6 __imp_??0DB@leveldb@@QEAA@XZ
+       13 __imp_??0Slice@leveldb@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+       12 __imp_??0Slice@leveldb@@QEAA@PEBD@Z
+       14 __imp_??0Slice@leveldb@@QEAA@PEBD_K@Z
+       15 __imp_??0Slice@leveldb@@QEAA@XZ
+       1D __imp_??1Comparator@leveldb@@UEAA@XZ
+       1A __imp_??1DB@leveldb@@UEAA@XZ
+       16 __imp_??4Comparator@leveldb@@QEAAAEAV01@AEBV01@@Z
+        8 __imp_??4Slice@leveldb@@QEAAAEAV01@$$QEAV01@@Z
+        9 __imp_??4Slice@leveldb@@QEAAAEAV01@AEBV01@@Z
+        E __imp_??ASlice@leveldb@@QEBAD_K@Z
+        5 __imp_??_7Comparator@leveldb@@6B@
+        4 __imp_??_7DB@leveldb@@6B@
+       1B __imp_?Delete@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@@Z
+       19 __imp_?Open@DB@leveldb@@SA?AVStatus@2@AEBUOptions@2@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAPEAV12@@Z
+       1C __imp_?Put@DB@leveldb@@UEAA?AVStatus@2@AEBUWriteOptions@2@AEBVSlice@2@1@Z
+        B __imp_?ToString@Slice@leveldb@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+        D __imp_?clear@Slice@leveldb@@QEAAXXZ
+        7 __imp_?compare@Slice@leveldb@@QEBAHAEBV12@@Z
+       11 __imp_?data@Slice@leveldb@@QEBAPEBDXZ
+        F __imp_?empty@Slice@leveldb@@QEBA_NXZ
+        C __imp_?remove_prefix@Slice@leveldb@@QEAAX_K@Z
+       10 __imp_?size@Slice@leveldb@@QEBA_KXZ
+        A __imp_?starts_with@Slice@leveldb@@QEBA_NAEBV12@@Z
+        3 leveldb_NULL_THUNK_DATA
+
+  Summary
+
+          C3 .debug$S
+          14 .idata$2
+          14 .idata$3
+           8 .idata$4
+           8 .idata$5
+           C .idata$6
